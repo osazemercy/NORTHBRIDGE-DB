@@ -144,7 +144,7 @@ CREATE TABLE Users (
     last_name VARCHAR(50),
     gender ENUM('Male','Female','Other'),
     phone VARCHAR(20),
-    date_of_births DATE,
+    date_of_birth DATE,
     profile_picture VARCHAR(255),
     address TEXT,
     city VARCHAR(50),
